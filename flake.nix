@@ -69,10 +69,10 @@
 
           nativeBuildInputs = [
             which
+            nototools
             (python3.withPackages (
               python-pkgs: with python-pkgs; [
                 fonttools
-                nototools
               ]
             ))
             optipng
