@@ -27,4 +27,3 @@ jobs:
         with:
           name: apple-color-emoji-font
           path: AppleColorEmoji.ttf
-

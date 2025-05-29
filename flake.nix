@@ -57,7 +57,7 @@
           pngquant,
           imagemagick,
           which,
-		  nototools,
+          nototools,
         }:
 
         stdenv.mkDerivation {
